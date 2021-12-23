@@ -1,0 +1,1 @@
+x=msgbox("this does not have dos.exe installed. This command can't run." ,48, "PurnJayDOS 6.11")
